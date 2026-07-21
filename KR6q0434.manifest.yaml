@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0434_000.yaml, hash: 'sha256:7a48c01e987cd4844490ab0093c30b6b08bfe066096c66b023a7888cfc484b1b'}
+  - {seq: 0, filename: KR6q0434_000.yaml, hash: 'sha256:9e18e5d6e699928871fcbb64706141c11146f26359390eb7640f5c00fd57df69'}
   - {seq: 1, filename: KR6q0434_001.yaml, hash: 'sha256:b416cbf789e2c7771a8fb4ac48b07c4d0ef4a3249218272d2374c306016fd1d0'}
   - {seq: 2, filename: KR6q0434_002.yaml, hash: 'sha256:18b2b6e356eedd730aed6ed64fa72163e078d394af56bfb21f8190b9f8dace7c'}
   - {seq: 3, filename: KR6q0434_003.yaml, hash: 'sha256:e86393e645c5a6693ac12175b6166eb9bfa4cf4e086146fd06be8bf112bc6984'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6q0434_011.yaml, hash: 'sha256:9a73d7fe5d9cb800496a26338298718aabdb5ca16fa1f7bb42398685a7d7884c'}
   - {seq: 12, filename: KR6q0434_012.yaml, hash: 'sha256:4e7ace4ee3c33433d46efe7e5c6bc849f5bacb43ad903039e26f17aa4a48645e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0434_000.markers.yaml, hash: 'sha256:08523c275c74ff43bd94faca1ba3709385f4184296dde9249eb88fb8e0ec2986'}
+  - {seq: 0, role: markers, filename: assets/KR6q0434_000.markers.yaml, hash: 'sha256:d1f391f411651535c5b6d3ae715139de030c12ae738d1d69390940c8c7f717b5'}
   - {seq: 1, role: markers, filename: assets/KR6q0434_001.markers.yaml, hash: 'sha256:7a9bcc89962d0f9b54d4ba218c6451d47660437c9a4d312c2fa232f6d591b14d'}
   - {seq: 2, role: markers, filename: assets/KR6q0434_002.markers.yaml, hash: 'sha256:a9500e23e04a97473c96add0c568f48f21a0b660c0affdea34f50995c4ed8c9f'}
   - {seq: 3, role: markers, filename: assets/KR6q0434_003.markers.yaml, hash: 'sha256:cf6530a7a1b78325553c88e05f55f422c68e9321f56b3cdda0f0a6ba9badeaca'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0434_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0434_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 李王庭序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0434_J_000-mulu-3
     span:
-    - front
+    - body
     - 1
     - 1
   label: 余三瀛序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0434_J_000-mulu-4
     span:
-    - front
+    - body
     - 763
     - 763
   label: 目錄
@@ -3869,7 +3869,7 @@ table_of_contents:
   label: 清化規約
   type: mulu
   level: 1
-hash: sha256:188983d0d3343d0e5e5ec7a66f848d3ed2110e5c62d3b4a22b662092c1463e36
+hash: sha256:01a150a8ce55af6f832aab6ee07054be21dff3d81177f6eb8e143d9785bc6cf6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
